@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body,
+#root,
+.App {
+  height: 100%;
+}
+
+.App {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  font-family: sans-serif;
+  justify-content: center;
+  text-align: center;
+}
+
+.App-matrix {
+  margin: 1rem;
+}
+
+.button {
+  padding: 0.1rem 1.8rem;
+}
